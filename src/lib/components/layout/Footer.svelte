@@ -110,7 +110,7 @@
           &copy; {currentYear} TheNaturalCatLitter.com. All rights reserved.
         </p>
         <p class="text-sand-400 text-sm">
-          Proudly supporting <a href="https://purrify.ca?utm_source=thenaturalcatlitter&utm_medium=footer-credit" target="_blank" rel="noopener noreferrer" class="text-forest-400 hover:text-forest-300">Purrify</a> - Natural Odor Control
+          Proudly supporting <a href="https://purrify.ca?utm_source=thenaturalcatlitter&utm_medium=footer-credit" class="text-forest-400 hover:text-forest-300">Purrify</a> - Natural Odor Control
         </p>
       </div>
     </div>

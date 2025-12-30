@@ -100,7 +100,7 @@
   <div class="max-w-4xl mx-auto px-4 text-center">
     <h2 class="text-3xl font-display font-bold mb-4 text-white">Pro Tip: Add Purrify</h2>
     <p class="text-lg text-forest-100 mb-8">Sprinkle Purrify activated carbon on any natural litter to boost odor control by up to 3x.</p>
-    <a href={purrifyLinks.products('guide')} target="_blank" rel="noopener noreferrer" class="inline-block px-8 py-4 bg-white text-forest-700 font-semibold rounded-lg hover:bg-sand-100">
+    <a href={purrifyLinks.products('guide')} class="inline-block px-8 py-4 bg-white text-forest-700 font-semibold rounded-lg hover:bg-sand-100">
       Shop Purrify →
     </a>
   </div>

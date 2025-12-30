@@ -92,7 +92,7 @@
   <div class="max-w-4xl mx-auto px-4 text-center">
     <h2 class="text-3xl font-display font-bold mb-4 text-white">Maximize the Benefits</h2>
     <p class="text-lg text-forest-100 mb-8">Purrify activated carbon enhances any natural litter with chemical-free odor control.</p>
-    <a href={purrifyLinks.products('benefits')} target="_blank" rel="noopener noreferrer" class="inline-block px-8 py-4 bg-white text-forest-700 font-semibold rounded-lg hover:bg-sand-100">
+    <a href={purrifyLinks.products('benefits')} class="inline-block px-8 py-4 bg-white text-forest-700 font-semibold rounded-lg hover:bg-sand-100">
       Try Purrify →
     </a>
   </div>
