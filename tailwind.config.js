@@ -1,0 +1,56 @@
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: ['./src/**/*.{html,js,svelte,ts}'],
+  theme: {
+    extend: {
+      colors: {
+        forest: {
+          50: '#f4f7f4',
+          100: '#e6ebe5',
+          200: '#cdd8cc',
+          300: '#a8bda6',
+          400: '#7d9a7a',
+          500: '#5d7d5a',
+          600: '#496347',
+          700: '#3c503b',
+          800: '#334232',
+          900: '#2b372b',
+          950: '#151d15',
+        },
+        earth: {
+          50: '#faf8f5',
+          100: '#f2ede4',
+          200: '#e4dac8',
+          300: '#d3c2a5',
+          400: '#bfa57e',
+          500: '#b08f62',
+          600: '#a37c55',
+          700: '#886548',
+          800: '#6f5340',
+          900: '#5b4537',
+          950: '#30231b',
+        },
+        sage: {
+          50: '#f6f7f4',
+          100: '#e9ece4',
+          200: '#d4dacc',
+          300: '#b5c0aa',
+          400: '#94a385',
+          500: '#768868',
+          600: '#5d6c52',
+          700: '#4a5642',
+          800: '#3d4637',
+          900: '#343c30',
+          950: '#1a1f18',
+        },
+        cream: '#fdfcf8',
+        sand: '#f5f2eb',
+      },
+      fontFamily: {
+        serif: ['Georgia', 'Cambria', 'Times New Roman', 'serif'],
+        sans: ['system-ui', '-apple-system', 'Segoe UI', 'Roboto', 'sans-serif'],
+      },
+    },
+  },
+  plugins: [],
+};
