@@ -17,7 +17,7 @@
     image = 'https://thenaturalcatlitter.com/og-image.jpg',
   }: Props = $props();
 
-  const schema = {
+  const schema = $derived({
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: title,
@@ -36,7 +36,7 @@
       name: 'The Natural Cat Litter',
       url: 'https://thenaturalcatlitter.com',
     },
-  };
+  });
 </script>
 
 <svelte:head>

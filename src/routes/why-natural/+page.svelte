@@ -38,6 +38,10 @@
   <title>Why Choose Natural Cat Litter? | The Natural Cat Litter</title>
   <meta name="description" content="Learn why natural cat litter is better for your cat, home, and environment. Discover problems with clay litter and benefits of natural alternatives." />
   <link rel="canonical" href="https://thenaturalcatlitter.com/why-natural" />
+  <meta property="og:title" content="Why Choose Natural Cat Litter? | The Natural Cat Litter" />
+  <meta property="og:description" content="Learn why natural cat litter is better for your cat, home, and environment." />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://thenaturalcatlitter.com/why-natural" />
 </svelte:head>
 
 <section class="bg-gradient-to-br from-forest-50 to-sand-50 py-16 md:py-24">

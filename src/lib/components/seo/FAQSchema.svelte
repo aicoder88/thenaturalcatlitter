@@ -10,7 +10,7 @@
 
   let { faqs }: Props = $props();
 
-  const schema = {
+  const schema = $derived({
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
     mainEntity: faqs.map((faq) => ({
@@ -21,7 +21,7 @@
         text: faq.answer,
       },
     })),
-  };
+  });
 </script>
 
 <svelte:head>

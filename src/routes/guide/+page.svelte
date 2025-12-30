@@ -23,6 +23,10 @@
   <title>Natural Cat Litter Buying Guide | How to Choose</title>
   <meta name="description" content="Complete guide to choosing the best natural cat litter. Learn what to consider, how to transition your cat, and tips for success." />
   <link rel="canonical" href="https://thenaturalcatlitter.com/guide" />
+  <meta property="og:title" content="Natural Cat Litter Buying Guide | How to Choose" />
+  <meta property="og:description" content="Complete guide to choosing the best natural cat litter. Learn what to consider and how to transition your cat." />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://thenaturalcatlitter.com/guide" />
 </svelte:head>
 
 <section class="bg-gradient-to-br from-forest-50 to-sand-50 py-16 md:py-24">

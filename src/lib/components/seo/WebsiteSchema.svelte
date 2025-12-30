@@ -11,7 +11,7 @@
     description = 'Your complete guide to natural, chemical-free cat litter options. Discover plant-based, organic, and eco-friendly litter alternatives for your feline friend.',
   }: Props = $props();
 
-  const schema = {
+  const schema = $derived({
     '@context': 'https://schema.org',
     '@type': 'WebSite',
     name,
@@ -22,7 +22,7 @@
       name,
       url,
     },
-  };
+  });
 </script>
 
 <svelte:head>

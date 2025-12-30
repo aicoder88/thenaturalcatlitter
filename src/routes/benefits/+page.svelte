@@ -27,6 +27,10 @@
   <title>Health Benefits of Natural Cat Litter | For Cats, Humans & Planet</title>
   <meta name="description" content="Discover health benefits of natural cat litter for your cat, your family, and the environment. Learn why switching matters." />
   <link rel="canonical" href="https://thenaturalcatlitter.com/benefits" />
+  <meta property="og:title" content="Health Benefits of Natural Cat Litter | For Cats, Humans & Planet" />
+  <meta property="og:description" content="Discover health benefits of natural cat litter for your cat, your family, and the environment." />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://thenaturalcatlitter.com/benefits" />
 </svelte:head>
 
 <section class="bg-gradient-to-br from-forest-50 to-sand-50 py-16 md:py-24">

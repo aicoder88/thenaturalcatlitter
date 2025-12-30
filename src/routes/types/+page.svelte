@@ -63,6 +63,10 @@
   <title>Natural Cat Litter Types Compared | Complete Guide</title>
   <meta name="description" content="Compare wood, corn, wheat, paper, grass, walnut, and tofu cat litters. Find the best natural litter type for your cat's needs." />
   <link rel="canonical" href="https://thenaturalcatlitter.com/types" />
+  <meta property="og:title" content="Natural Cat Litter Types Compared | Complete Guide" />
+  <meta property="og:description" content="Compare wood, corn, wheat, paper, grass, walnut, and tofu cat litters. Find the best natural litter type." />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://thenaturalcatlitter.com/types" />
 </svelte:head>
 
 <section class="bg-gradient-to-br from-forest-50 to-sand-50 py-16 md:py-24">
