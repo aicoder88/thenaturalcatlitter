@@ -42,6 +42,11 @@
   <meta property="og:description" content="Learn why natural cat litter is better for your cat, home, and environment." />
   <meta property="og:type" content="article" />
   <meta property="og:url" content="https://thenaturalcatlitter.com/why-natural" />
+  <meta property="og:image" content="https://thenaturalcatlitter.com/og-why-natural.svg" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content="https://thenaturalcatlitter.com/og-why-natural.svg" />
 </svelte:head>
 
 <section class="bg-gradient-to-br from-forest-50 to-sand-50 py-16 md:py-24">

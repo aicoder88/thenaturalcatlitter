@@ -27,6 +27,11 @@
   <meta property="og:description" content="Complete guide to choosing the best natural cat litter. Learn what to consider and how to transition your cat." />
   <meta property="og:type" content="article" />
   <meta property="og:url" content="https://thenaturalcatlitter.com/guide" />
+  <meta property="og:image" content="https://thenaturalcatlitter.com/og-guide.svg" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content="https://thenaturalcatlitter.com/og-guide.svg" />
 </svelte:head>
 
 <section class="bg-gradient-to-br from-forest-50 to-sand-50 py-16 md:py-24">

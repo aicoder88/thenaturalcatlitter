@@ -67,6 +67,11 @@
   <meta property="og:description" content="Compare wood, corn, wheat, paper, grass, walnut, and tofu cat litters. Find the best natural litter type." />
   <meta property="og:type" content="article" />
   <meta property="og:url" content="https://thenaturalcatlitter.com/types" />
+  <meta property="og:image" content="https://thenaturalcatlitter.com/og-types.svg" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content="https://thenaturalcatlitter.com/og-types.svg" />
 </svelte:head>
 
 <section class="bg-gradient-to-br from-forest-50 to-sand-50 py-16 md:py-24">

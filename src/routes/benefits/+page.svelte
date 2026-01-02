@@ -31,6 +31,11 @@
   <meta property="og:description" content="Discover health benefits of natural cat litter for your cat, your family, and the environment." />
   <meta property="og:type" content="article" />
   <meta property="og:url" content="https://thenaturalcatlitter.com/benefits" />
+  <meta property="og:image" content="https://thenaturalcatlitter.com/og-benefits.svg" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content="https://thenaturalcatlitter.com/og-benefits.svg" />
 </svelte:head>
 
 <section class="bg-gradient-to-br from-forest-50 to-sand-50 py-16 md:py-24">
